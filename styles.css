@@ -1,5 +1,3 @@
-
-/* Your CSS Code here. */
 .outer {
   margin: 20px;
   border: 15px solid blue;
@@ -7,8 +5,8 @@
   background-color: lightblue;
   width: 300px;
   font-family: Arial, sans-serif;
-}
-
-.inner {
-  border: 2px dashed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
 }
